@@ -2,4 +2,4 @@
 
 Your projects go here!
 
-Current project: bootstrap
+**Current project**: bootstrap
