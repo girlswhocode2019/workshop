@@ -4,3 +4,6 @@
 [submodule "ccai1"]
 	path = ccai1
 	url = https://github.com/ccai1/mangosteens.git
+[submodule "anais-test"]
+	path = anais-test
+	url = https://github.com/adelfau/test.git
