@@ -7,3 +7,6 @@
 [submodule "anais-test"]
 	path = anais-test
 	url = https://github.com/adelfau/test.git
+[submodule "aedwards10"]
+	path = aedwards10
+	url = https://github.com/AgsyBagsy04/firstwebsite.git
