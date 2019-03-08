@@ -10,3 +10,9 @@
 [submodule "aedwards10"]
 	path = aedwards10
 	url = https://github.com/AgsyBagsy04/firstwebsite.git
+[submodule "First-Repo"]
+	path = First-Repo
+	url = https://github.com/vgao10/First-Repo.git
+[submodule "vgao"]
+	path = vgao
+	url = https://github.com/vgao10/First-Repo.git
