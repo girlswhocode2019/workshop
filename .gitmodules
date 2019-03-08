@@ -1,6 +1,3 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/cmohri/graphics03.git
-[submodule "ccai1"]
-	path = ccai1
-	url = https://github.com/ccai1/mangosteens.git
